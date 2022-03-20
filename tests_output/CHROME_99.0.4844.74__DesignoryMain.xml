@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="DesignoryMain"
+    errors="0" failures="0" hostname="" id="" package="DesignoryMain" skipped="0"
+    tests="1" time="18.84" timestamp="">
+  
+    <testcase name="Work Menu" classname="DesignoryMain" time="18.84" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
