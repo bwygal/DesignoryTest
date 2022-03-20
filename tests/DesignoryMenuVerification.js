@@ -58,6 +58,8 @@ module.exports =  {
         browser.verify.containsText(London_Menu,"LONDON")
         browser.verify.containsText(HongKong_Menu,"HONG KONG")
 
+        //Navigate to About
+
     }
 
 }
